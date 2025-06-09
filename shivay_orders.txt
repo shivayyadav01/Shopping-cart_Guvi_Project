@@ -1,0 +1,6 @@
+Order on Mon Jun 09 16:13:48 IST 2025
+Shipping Address: noida
+Items:
+ - 4. Java Programming Book - Rs.700.0 (Books)
+Total: Rs.700.0
+-------------------------------
